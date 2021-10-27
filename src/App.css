@@ -16,3 +16,23 @@ body {
   background-color: #282c34;
   color: white;
 }
+
+ul {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  border: 1px solid red;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+li {
+  /* padding: 1px; */
+  list-style-type: none;
+}
