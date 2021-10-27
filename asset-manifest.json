@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tiny-crud-functional-components/static/css/main.90b08b1b.chunk.css",
+    "main.js": "/tiny-crud-functional-components/static/js/main.21073c73.chunk.js",
+    "main.js.map": "/tiny-crud-functional-components/static/js/main.21073c73.chunk.js.map",
+    "runtime-main.js": "/tiny-crud-functional-components/static/js/runtime-main.29dff3b9.js",
+    "runtime-main.js.map": "/tiny-crud-functional-components/static/js/runtime-main.29dff3b9.js.map",
+    "static/js/2.9d2d9e3c.chunk.js": "/tiny-crud-functional-components/static/js/2.9d2d9e3c.chunk.js",
+    "static/js/2.9d2d9e3c.chunk.js.map": "/tiny-crud-functional-components/static/js/2.9d2d9e3c.chunk.js.map",
+    "index.html": "/tiny-crud-functional-components/index.html",
+    "static/css/main.90b08b1b.chunk.css.map": "/tiny-crud-functional-components/static/css/main.90b08b1b.chunk.css.map",
+    "static/js/2.9d2d9e3c.chunk.js.LICENSE.txt": "/tiny-crud-functional-components/static/js/2.9d2d9e3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29dff3b9.js",
+    "static/js/2.9d2d9e3c.chunk.js",
+    "static/css/main.90b08b1b.chunk.css",
+    "static/js/main.21073c73.chunk.js"
+  ]
+}
