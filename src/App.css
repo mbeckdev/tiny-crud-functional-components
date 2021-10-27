@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .App {
   text-align: center;
 }
@@ -17,13 +23,8 @@ body {
   color: white;
 }
 
-ul {
-  width: 500px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-start;
-  border: 1px solid red;
+li {
+  list-style-type: none;
 }
 
 main {
@@ -32,7 +33,36 @@ main {
   align-items: center;
 }
 
-li {
-  /* padding: 1px; */
-  list-style-type: none;
+p {
+  margin: 10px 0;
+}
+
+ul {
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  box-shadow: 1px 1px 20px -5px darkcyan;
+  padding: 5px;
+}
+
+/* Start of Button stuff */
+button {
+  padding: 2px 4px;
+}
+
+ul button {
+  margin-right: 5px;
+}
+
+.not-list-button {
+  margin-top: 10px;
+}
+/* End of Button stuff */
+
+@media only screen and (min-width: 400px) {
+  ul {
+    width: 80%;
+  }
 }

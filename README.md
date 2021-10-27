@@ -1,4 +1,4 @@
-# tiny-crud-cuntional-components
+# tiny-crud-funtional-components
 
 A tiny CRUD task list - code to help remember Hooks with functional components in React
 
